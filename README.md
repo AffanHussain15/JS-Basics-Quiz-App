@@ -1,1 +1,1 @@
-# JS-Quiz-App
+# JS-Basics-Quiz-App
